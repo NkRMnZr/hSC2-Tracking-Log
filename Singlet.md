@@ -10,3 +10,7 @@
 8. `EPI_ISL_18222367`, [B.1 Saltation with Y453F from USA](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18222367%20B.1%20Saltation%20with%20Y453F.json?label=id:node_4087874)
 9. `EPI_ISL_18224410`, [BA.2 Saltation with 23 Spike Mutations including `R346T, R403K, L452R`, etc. from Canada](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18224410%20BA.2%20Saltation%20with%2023%20Spike%20Mutations.json?label=id%3Anode_7787733)
 10. `EPI_ISL_18248695`, [BA.2 Saltation with 9 Spike Mutations including `E340Q, N440R, L452M, D936Y`, etc. from England](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18248695%20BA.2_Saltation%20with%209%20Spike%20AA%20Mutations.json?label=id%3Anode_10459399)
+11. `EPI_ISL_18285953`, [XBB.1.5 with 60-divergence Saltation, WA](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18285953%20XBB.1.5%2060%20Div%20Saltation%2C%20WA.json?label=id%3Anode_7365081)
+12. `EPI_ISL_18286773`, [BA.2 Long Branch Cluster with 13 spike mutations, Sweden](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18286773%20BA.2%20Long%20Branch%20with%2013%20spike%20mutations%2C%20Sweden.json?label=id%3Anode_10453679)
+
+
