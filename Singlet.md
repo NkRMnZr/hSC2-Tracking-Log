@@ -12,5 +12,6 @@
 10. `EPI_ISL_18248695`, [BA.2 Saltation with 9 Spike Mutations including `E340Q, N440R, L452M, D936Y`, etc. from England](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18248695%20BA.2_Saltation%20with%209%20Spike%20AA%20Mutations.json?label=id%3Anode_10459399)
 11. `EPI_ISL_18285953`, [XBB.1.5 with 60-divergence Saltation, WA](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18285953%20XBB.1.5%2060%20Div%20Saltation%2C%20WA.json?label=id%3Anode_7365081)
 12. `EPI_ISL_18286773`, [BA.2 Long Branch Cluster with 13 spike mutations, Sweden](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18286773%20BA.2%20Long%20Branch%20with%2013%20spike%20mutations%2C%20Sweden.json?label=id%3Anode_10453679)
+13. `EPI_ISL_18320079`, [BU.1 saltation with `R346T`, `R403K`, `G446R`, `K478R`, `F486A (V>A)` etc., from Mexico](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18320079%2C%20BU.1%20saltation%20with%20R346T%2C%20R403K%2C%20G446R%2C%20K478R%2C%20F486A%20from%20Mexico.json?label=id:node_9881918)
 
 
