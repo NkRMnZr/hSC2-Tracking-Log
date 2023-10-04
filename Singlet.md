@@ -15,5 +15,5 @@
 13. `EPI_ISL_18320079`, [BU.1 saltation with `R346T`, `R403K`, `G446R`, `K478R`, `F486A (V>A)` etc., from Mexico](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18320079%2C%20BU.1%20saltation%20with%20R346T%2C%20R403K%2C%20G446R%2C%20K478R%2C%20F486A%20from%20Mexico.json?label=id:node_9881918)
 14. `EPI_ISL_18334903`, [BF.31 30-divergence saltation with `L452Q` (L>R>Q), `N460K`, `P479S`, `H681R`, extended Spike_15-26 deletions, from Chile](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18334903%2C%20BF.31%2030-divergence%20saltation%20with%20L452Q%2C%20N460K%2C%20P479S%2C%20H681R%2C%20Chile.json?label=id%3Anode_10951126)
 15. `EPI_ISL_18338143`, [BQ.1 30-divergence saltation with `N450K`, `F456L`, `E484P`, `D796Y`, from France](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18338143%2C%20BQ.1%2030-divergence%20saltation%20with%20N450K%2C%20F456L%2C%20E484P%2C%20D796Y%2C%20France.json?label=id%3Anode_5198567)
-
+16. `EPI_ISL_18342927`, [XBC and XBB Recombinant, Philippines](https://nextstrain.org/fetch/raw.githubusercontent.com/NkRMnZr/hSC2-Tracking-Log/main/JSON/EPI_ISL_18342927%20XBC%20and%20XBB%20Recombinant%2C%20Philippines.json?label=id:node_10956037)
 
